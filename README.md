@@ -1,5 +1,7 @@
 # Angular With Bootstrap Demo
 
+![Screenshot](https://raw.githubusercontent.com/masoomulhaqa/angular-with-bootstrap-demo/master/screenshot.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1.
 
 ## Development server
